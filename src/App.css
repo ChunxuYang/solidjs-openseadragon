@@ -21,3 +21,10 @@
 .viewer-container {
   border: 1px solid red;
 }
+
+.highlight {
+  border: blue solid 5px;
+}
+.highlight:hover {
+  background: rgba(97, 218, 251, 0.1);
+}
